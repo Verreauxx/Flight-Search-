@@ -1,2 +1,6 @@
-# Flight-Search-
-Search flights 
+## Run
+
+```bash
+npm install
+npm run start
+```
